@@ -1,6 +1,6 @@
 idade = 32 # (Int) Número inteiros
 peso = 56.2 # (float) Números decimais
-nome = 'Sharon' # (Str) Caracteres
+nome = 'Sharonn' # (Str) Caracteres
 ativo = True # (Bool) Valores lógicos
 resultado = None # (None) Ausência de valor
 
